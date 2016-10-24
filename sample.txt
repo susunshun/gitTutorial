@@ -6,4 +6,4 @@ command test1
 
 this line is "pull request test".
 
-func1 changed
+func2 changed
